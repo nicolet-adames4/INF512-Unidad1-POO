@@ -5,6 +5,6 @@ El proyecto presenta un ejemplo claro y sencillo de Programación Orientada a Ob
 utilizando una clase la cual tiene por nombre Mascota.
 
 En este se le dará uso a los conceptos como:
-Clase
-Atributos
-Métodos 
+Clase,
+Atributos,
+Métodos.
