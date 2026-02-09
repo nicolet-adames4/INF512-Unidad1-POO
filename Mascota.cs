@@ -1,6 +1,6 @@
 using System;
 
-namespace INF512_Unidad1_POO
+namespace INF512_Unidad1_POO 
 {
     class Mascota
     {
