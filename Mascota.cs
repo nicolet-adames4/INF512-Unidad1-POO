@@ -24,3 +24,8 @@ namespace INF512_Unidad1_POO
         }
     }
 }
+public void Dormir()
+{
+    Console.WriteLine(Nombre + " está durmiendo");
+}
+
