@@ -7,4 +7,4 @@ utilizando una clase la cual tiene por nombre Mascota.
 En este se le dará uso a los conceptos como:
 Clase,
 Atributos,
-Métodos.
+Métodos. 
